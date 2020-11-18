@@ -1,4 +1,4 @@
-# SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation.
+# SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. (ECCV2020)
 By Chenfeng Xu, Bichen Wu, Zining Wang, Wei Zhan, Peter Vajda, Kurt Keutzer, and Masayoshi Tomizuka.
 
 This repository contains a Pytorch implementation of SqueezeSegV3, a state-of-the-art model for LiDAR segmentation. The framework of our SqueezeSegV3 can be found below:
