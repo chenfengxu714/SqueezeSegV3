@@ -31,11 +31,13 @@ Visualization results of SqueezeSegV3:
 For more details, please refer to our paper: [SqueezeSegV3](https://arxiv.org/abs/2004.01803). The work is a follow-up work to [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg), [SqueezeSegV2](https://github.com/xuanyuzhou98/SqueezeSegV2) and [LATTE](https://github.com/bernwang/latte). If you find this work useful for your research, please consider citing:
 
 ```
-@article{xu2020squeezesegv3,
-  title={SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation},
+@inproceedings{xu2020squeezesegv3,
+  title={Squeezesegv3: Spatially-adaptive convolution for efficient point-cloud segmentation},
   author={Xu, Chenfeng and Wu, Bichen and Wang, Zining and Zhan, Wei and Vajda, Peter and Keutzer, Kurt and Tomizuka, Masayoshi},
-  journal={arXiv preprint arXiv:2004.01803},
-  year={2020}
+  booktitle={European Conference on Computer Vision},
+  pages={1--19},
+  year={2020},
+  organization={Springer}
 }
 ```
 
